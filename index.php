@@ -9,7 +9,7 @@
 
   if($_POST['submit'] != ""){
     $url = $_POST['url'];
-    $getGP = getPhotoGoogle($url);
+    $getGP = getPhotoGoogle(https://photos.google.com/share/AF1QipOQb6lkbI1VCtA829CA7J1JzlGjncrYeXyYSG5xLb1PsOL_uG-cgP3h9FOWrv94DQ/photo/AF1QipMavCfhSvY1oC12Ye60YxxCGpTZJBXMakicKbsG?key=OTgzTmRCVDQwZzlkTmFtNFdRd2E0djAxT1pPY1FR);
   }
 ?>
 <!doctype html>
